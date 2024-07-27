@@ -39,10 +39,16 @@ Before setting the project up make sure to have the following
 - Git version control: Windows https://git-scm.com/download/win ; MacOS https://git-scm.com/download/mac ; Linux https://git-scm.com/download/linux
 # Clone the repository
 To get an exact copy of the project follow the steps below:
+<br>
 -Open your terminal
+<br>
 -Navigate to your desired directory
+<br>
 -Clone the repository
+<br>
 git clone https://github.com/MarjusMetushi/FileShare.git
+<br>
 -Navigate to the cloned repository
+<br>
 Thank you for taking your time to view/set up this project, if in need of any additional help feel free to contact me.
 
