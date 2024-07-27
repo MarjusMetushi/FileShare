@@ -2,7 +2,7 @@
 FileShare is a Java project with a straight-forward GUI and implementation of a file sharing system.
 # Concept
 The concept of this project is to start a server, connect two clients to this server and allow these clients to store their files in the server and download them.
-# Instructions
+# Instructions on how to operate the project
 This project works in the following order<br>
 -Start the server class<br>
 -Start the clients<br>
