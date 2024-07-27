@@ -1,14 +1,14 @@
 # FileShare
 FileShare is a Java project with a straight-forward GUI and implementation of a file sharing system.
 # Concept
-The concept of this project is to start a server, connect two clients to this server and allow these clients to store their files in the server, download and view them.
+The concept of this project is to start a server, connect two clients to this server and allow these clients to store their files in the server and download them.
 # Instructions
 This project works in the following order
 -Start the server class
 -Start the clients
 -Select a file/Folder
 -Send the selected file/folder to the server
--Click The "Download" button in order to view and download the files
+-Click The "View Uploaded Files" button in order to download the files
 -After downloading a file/folder, it will appear in the desktop as a ZIP folder or if it's a file the format remains unchanged
 -Possibility to download a file from the folder as needed because the folder gets sent separately before sent as a ZIP
 # Screenshots
