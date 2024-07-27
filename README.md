@@ -28,7 +28,7 @@ This is the server's interface
 <br>
 ![image](https://github.com/user-attachments/assets/8dc8defb-3cc7-4617-99a5-949c6580c898)
 <br>
-This is how the server files look like after pressing "Download"
+This is how the server files look like after pressing "View Uploaded Files"
 <br>
 ![Screenshot 2024-07-27 154138](https://github.com/user-attachments/assets/ea9f2295-cfc8-44b6-9367-c9bbf45f640e)
 <br>
